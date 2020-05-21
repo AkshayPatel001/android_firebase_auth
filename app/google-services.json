@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965259007188",
+    "firebase_url": "https://fir-email-auth-2be3b.firebaseio.com",
+    "project_id": "fir-email-auth-2be3b",
+    "storage_bucket": "fir-email-auth-2be3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965259007188:android:5606c6f35b10745a425741",
+        "android_client_info": {
+          "package_name": "patel.akshay.firebaseemailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965259007188-fbgndhdnhs27paom1min35ufm1k2iqu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "patel.akshay.firebaseemailauth",
+            "certificate_hash": "0f74117ac2418657dcff1279de8f44286f786753"
+          }
+        },
+        {
+          "client_id": "965259007188-r3f555gv2o1ugsen3aib5nbs7g1mcctn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4dQqBnDov5A8KEQIEeoGVd85-zqHDUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965259007188-r3f555gv2o1ugsen3aib5nbs7g1mcctn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
